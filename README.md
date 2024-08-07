@@ -1,2 +1,2 @@
 # DAA
-Design &amp; Analysis of Algorithm
+Design &amp; Analysis of Algorithms
